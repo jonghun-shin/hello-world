@@ -10,4 +10,7 @@ Let's Study hard!
 
 
 ## pdf sample
-<object data="images/RS.pdf" type="application/pdf" width="100%"> </object>
+<object data="images/RS.pdf" width="750px" height="750px">
+    <embed src="images/RS.pdf">
+    </embed>
+</object>
