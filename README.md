@@ -9,5 +9,5 @@ Let's Study hard!
 ![RS paper](pdf/RS.pdf)
 
 ## ㅁㅁ
-[[RS|pdf/RS.pdf]]
+<embed src="pdf/RS.pdf" type="application/pdf" />
 
