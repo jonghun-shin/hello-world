@@ -6,4 +6,8 @@ Let's Study hard!
 ![](images/RS-fig.png)
 
 ## pdf sample
-<embed src="/pdf/RS.pdf" type="application/pdf">
+![](images/RS.pdf)
+
+
+## pdf sample
+<embed src="/images/RS.pdf" type="application/pdf">
